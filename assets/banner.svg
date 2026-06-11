@@ -1,0 +1,56 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.45" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(260 120) rotate(35) scale(360 160)">
+      <stop stop-color="#7C3AED" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(910 210) rotate(15) scale(300 130)">
+      <stop stop-color="#F59E0B" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#glow1)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#glow2)"/>
+
+  <g opacity="0.22">
+    <path d="M0 260 C150 210 230 310 380 260 S650 220 800 260 1040 330 1200 250" stroke="#FFFFFF" stroke-width="2"/>
+    <path d="M0 80 C180 40 310 135 460 85 S750 15 900 85 1080 150 1200 90" stroke="#FFFFFF" stroke-width="1.5"/>
+  </g>
+
+  <g opacity="0.18">
+    <circle cx="100" cy="70" r="3" fill="#FFFFFF"/>
+    <circle cx="260" cy="245" r="3" fill="#FFFFFF"/>
+    <circle cx="1045" cy="80" r="3" fill="#FFFFFF"/>
+    <circle cx="980" cy="250" r="3" fill="#FFFFFF"/>
+    <circle cx="760" cy="50" r="2" fill="#FFFFFF"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="74" y="62" width="1052" height="196" rx="24" fill="#020617" fill-opacity="0.42" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="110" y="128" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="800">
+      Rodion Moroz
+    </text>
+    <text x="110" y="174" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">
+      Local AI / Rust / Automation Developer
+    </text>
+    <text x="110" y="213" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">
+      Offline-first tools · Educational simulators · Windows utilities · Developer workflows
+    </text>
+  </g>
+
+  <g transform="translate(910 92)">
+    <rect x="0" y="0" width="156" height="104" rx="18" fill="#111827" fill-opacity="0.75" stroke="#34D399" stroke-opacity="0.55"/>
+    <text x="24" y="40" fill="#D1FAE5" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="700">&gt; build</text>
+    <text x="24" y="72" fill="#FDE68A" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="700">local()</text>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+name: Validate profile README
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check required files
+        run: |
+          test -f README.md
+          test -f docs/PROJECTS.md
+          test -f docs/ROADMAP.md
+          test -f assets/banner.svg
+          test -f assets/divider.svg
+      - name: Check for placeholders
+        run: |
+          ! grep -R "yourusername\|youremail@gmail.com\|yourprofile" .
