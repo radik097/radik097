@@ -44,6 +44,19 @@ Local AI · Rust · Python · TypeScript · React · Vite · Windows Tools · De
 <tr>
 <td width="50%" valign="top">
 
+### 🏘️ Marrahub — Main Project
+
+Community hub platform for Marra Community Hub Incorporated, supported through my IT Infrastructure Volunteer role.
+
+**Core idea:** real-world infrastructure and systems support for a community organisation.
+
+<a href="https://marrahub.com.au">
+  <img alt="Marrahub" src="https://img.shields.io/badge/Visit-marrahub.com.au-0f766e?style=for-the-badge" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
 ### 🏗️ Arch Trainer
 
 Interactive browser-based sandbox for learning the Arch Linux installation process.
@@ -57,6 +70,9 @@ Interactive browser-based sandbox for learning the Arch Linux installation proce
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🎮 MCZ Launcher
