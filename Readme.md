@@ -265,7 +265,7 @@ Clean public portfolio project
 
 <br />
 
-<img src="https://streak-stats.demolab.com/?user=radik097&theme=transparent&hide_border=true" alt="GitHub streak" />
+<img src="https://ghchart.rshah.org/34D399/radik097" alt="GitHub contribution chart" />
 
 </div>
 
