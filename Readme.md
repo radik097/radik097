@@ -4,10 +4,60 @@
 
 <br />
 
+<a href="https://github.com/radik097">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Local+AI+%2F+Rust+%2F+Automation+Developer;Currently+building%3A+Marrahub;Melbourne%2C+Australia&font=Fira+Code&center=true&width=520&height=40&color=34D399&vCenter=true&size=22&pause=1500" alt="Typing animation" />
+</a>
+
+<br />
+
 [![Profile](https://img.shields.io/badge/Profile-radik097-111827?style=for-the-badge&logo=github)](https://github.com/radik097)
 [![Location](https://img.shields.io/badge/Melbourne-Australia-0f766e?style=for-the-badge&logo=googlemaps)](#)
-[![Focus](https://img.shields.io/badge/Focus-Local_AI_/_Rust_/_Automation-7c3aed?style=for-the-badge)](#)
+[![Main Project](https://img.shields.io/badge/Main_Project-Marrahub-7c3aed?style=for-the-badge)](https://marrahub.com.au)
 [![Status](https://img.shields.io/badge/Status-Building_in_Public-f59e0b?style=for-the-badge)](#)
+
+</div>
+
+---
+
+## Navigation
+
+<div align="center">
+
+[![Marrahub](https://img.shields.io/badge/🏘️_Marrahub-Main_Project-0f766e?style=for-the-badge)](#-marrahub--main-project)
+[![Featured](https://img.shields.io/badge/🚀_Featured-Projects-7c3aed?style=for-the-badge)](#featured-projects)
+[![Stack](https://img.shields.io/badge/🧩_Tech-Stack-f59e0b?style=for-the-badge)](#tech-stack)
+[![Map](https://img.shields.io/badge/🗺️_Direction-Map-111827?style=for-the-badge)](#interactive-map)
+[![Activity](https://img.shields.io/badge/📊_GitHub-Activity-0ea5e9?style=for-the-badge)](#github-activity)
+[![Contact](https://img.shields.io/badge/✉️_Get-In_Touch-be185d?style=for-the-badge)](#contact)
+
+</div>
+
+---
+
+## 🏘️ Marrahub — Main Project
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### Marrahub
+
+Community hub platform for **Marra Community Hub Incorporated** — the project I put most of my current engineering and infrastructure time into, through my IT Infrastructure Volunteer role.
+
+**Focus:** real-world infrastructure support, systems reliability, and practical tooling for a working community organisation — not a sandbox project.
+
+<a href="https://marrahub.com.au">
+  <img alt="Visit Marrahub" src="https://img.shields.io/badge/Visit-marrahub.com.au-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:rodion.moroz@marrahub.com.au">
+  <img alt="Contact" src="https://img.shields.io/badge/Contact-rodion.moroz%40marrahub.com.au-111827?style=for-the-badge&logo=maildotru&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -15,7 +65,7 @@
 
 ## About
 
-I build **offline-first AI tools, Rust desktop utilities, educational simulators, and automation systems**.
+I build **offline-first AI tools, Rust desktop utilities, educational simulators, and automation systems** — and right now, most of my hands-on infrastructure work goes into **Marrahub**.
 
 My current direction is practical engineering: tools that run locally, explain complex systems clearly, automate repetitive work, and turn experimental ideas into usable software.
 
@@ -23,18 +73,19 @@ My current direction is practical engineering: tools that run locally, explain c
 Local AI · Rust · Python · TypeScript · React · Vite · Windows Tools · Developer Automation
 ```
 
----
+<details>
+<summary><b>💬 Ask me about...</b></summary>
 
-## Navigation
+<br />
 
-| Section | Description |
+| Topic | What I'll talk your ear off about |
 |---|---|
-| [Featured Projects](#featured-projects) | Main public repositories worth opening first |
-| [Tech Stack](#tech-stack) | Languages, frameworks, tools, and workflow |
-| [Interactive Map](#interactive-map) | Visual overview of my engineering direction |
-| [Project Notes](./docs/PROJECTS.md) | Extended project descriptions |
-| [Roadmap](./docs/ROADMAP.md) | Current development direction |
-| [Contact](./docs/CONTACT.md) | Contact and collaboration notes |
+| 🏘️ Marrahub | Community infrastructure, day-to-day systems support, practical fixes |
+| 🖥️ Rust desktop apps | Portable Windows tooling, Iced UI, async downloads |
+| 🎓 Educational simulators | Turning complex systems into interactive lessons |
+| 🤖 Local AI | Offline-first assistants, RAG, tool orchestration |
+
+</details>
 
 ---
 
@@ -42,19 +93,6 @@ Local AI · Rust · Python · TypeScript · React · Vite · Windows Tools · De
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🏘️ Marrahub — Main Project
-
-Community hub platform for Marra Community Hub Incorporated, supported through my IT Infrastructure Volunteer role.
-
-**Core idea:** real-world infrastructure and systems support for a community organisation.
-
-<a href="https://marrahub.com.au">
-  <img alt="Marrahub" src="https://img.shields.io/badge/Visit-marrahub.com.au-0f766e?style=for-the-badge" />
-</a>
-
-</td>
 <td width="50%" valign="top">
 
 ### 🏗️ Arch Trainer
@@ -70,9 +108,6 @@ Interactive browser-based sandbox for learning the Arch Linux installation proce
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🎮 MCZ Launcher
@@ -143,6 +178,7 @@ Windows V2Ray client concept with automatic configuration and server parsing.
 | Data | SQLite, JSON configs, local-first storage |
 | DevOps | GitHub Actions, portable builds, release packaging |
 | Systems | Windows tooling, Linux learning environments, CLI workflows |
+| Infrastructure | Community IT support, hardware/software troubleshooting (Marrahub) |
 
 </details>
 
@@ -155,10 +191,15 @@ Windows V2Ray client concept with automatic configuration and server parsing.
 
 ```mermaid
 flowchart TD
-    A["radik097"] --> B["Local AI Systems"]
+    A["radik097"] --> M["🏘️ Marrahub (Main Project)"]
+    A --> B["Local AI Systems"]
     A --> C["Rust Desktop Tools"]
     A --> D["Educational Simulators"]
     A --> E["Developer Automation"]
+
+    M --> M1["Infrastructure support"]
+    M --> M2["Systems reliability"]
+    M --> M3["Community tooling"]
 
     B --> B1["Offline assistants"]
     B --> B2["RAG / memory"]
@@ -202,6 +243,7 @@ Clean public portfolio project
 
 ## Current Build Direction
 
+- Supporting and growing **Marrahub** as my primary hands-on infrastructure project.
 - Making experimental projects easier to understand from the outside.
 - Turning rough tools into clean, documented repositories.
 - Building local-first AI and automation systems.
@@ -220,6 +262,10 @@ Clean public portfolio project
 <br />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radik097&theme=transparent" alt="Profile summary" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=radik097&theme=transparent&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -246,12 +292,15 @@ Clean public portfolio project
 
 ## Contact
 
-For collaboration, project discussion, or technical feedback, use GitHub issues/discussions on the relevant repository.
+For collaboration, project discussion, or technical feedback, use GitHub issues/discussions on the relevant repository — or reach me directly through **Marrahub**.
 
 <div align="center">
 
+[![Marrahub](https://img.shields.io/badge/🏘️_Marrahub-marrahub.com.au-0f766e?style=for-the-badge)](https://marrahub.com.au)
+[![Email](https://img.shields.io/badge/Email-rodion.moroz%40marrahub.com.au-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodion.moroz@marrahub.com.au)
+
 <img src="./assets/divider.svg" alt="divider" width="100%" />
 
-**Building local tools, educational systems, and AI-assisted automation.**
+**Building local tools, educational systems, and AI-assisted automation — with Marrahub as my main project.**
 
 </div>
