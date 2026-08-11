@@ -65,7 +65,7 @@ Community hub platform for **Marra Community Hub Incorporated** — the project 
 
 ## About
 
-I build **offline-first AI tools, Rust desktop utilities, educational simulators, and automation systems** — and right now, most of my hands-on infrastructure work goes into **Marrahub**.
+I'm an **IT Infrastructure Volunteer at Marrahub**, supporting real-world systems and infrastructure for a community organisation. Outside of that, I build **offline-first AI tools, Rust desktop utilities, educational simulators, and automation systems** as my own self-directed projects.
 
 My current direction is practical engineering: tools that run locally, explain complex systems clearly, automate repetitive work, and turn experimental ideas into usable software.
 
