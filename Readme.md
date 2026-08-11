@@ -267,6 +267,10 @@ Clean public portfolio project
 
 <img src="https://ghchart.rshah.org/34D399/radik097" alt="GitHub contribution chart" />
 
+<br />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=radik097&theme=dark&hide_border=true&timezone=UTC%20%2B10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 </div>
 
 ---
