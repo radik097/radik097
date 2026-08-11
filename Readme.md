@@ -256,8 +256,8 @@ Clean public portfolio project
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=radik097&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radik097&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=radik097&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=radik097&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 
 <br />
 
