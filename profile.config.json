@@ -4,6 +4,11 @@
   "display_name": "Rodion Moroz",
   "positioning": "Local AI / Rust / Automation Developer",
   "location": "Melbourne, Australia",
+  "main_project": {
+    "name": "Marrahub",
+    "url": "https://marrahub.com.au",
+    "description": "Community hub platform for Marra Community Hub Incorporated"
+  },
   "featured_repositories": [
     "Arch_game",
     "MCZPlauncherv2",
