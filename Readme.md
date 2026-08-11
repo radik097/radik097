@@ -265,7 +265,7 @@ Clean public portfolio project
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=radik097&theme=transparent&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=radik097&theme=transparent&hide_border=true" alt="GitHub streak" />
 
 </div>
 
